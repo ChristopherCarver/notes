@@ -1,4 +1,10 @@
----layout: posttitle: Notability Guidesubtitle: Getting started with Notability todaycategories: Notabilitytags: [notability, guide, tutorial]---
+---
+layout: post
+title: Notability Guide
+subtitle: Getting started with Notability today
+categories: Notability
+tags: [guide, notetaking]
+---
 
 # About
 Certainly! Here's a revised version:
