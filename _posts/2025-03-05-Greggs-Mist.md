@@ -6,6 +6,8 @@ categories: Garden
 tags: [garden, pollenator]
 ---
 
+![banner](https://christophercarver@github.io/assets/images/IMG_4137.jpeg)
+
 # Update
 
-Added 
+See what the banner looks like.
