@@ -7,7 +7,6 @@ tags: [guide, notetaking]
 ---
 
 # About
-Certainly! Here's a revised version:
 
 This Notability guide assists newcomers in creating and taking digital notes on their Apple iPad. Beginning with setup, various features and functions will be explored to get users started. The journey from a new user to a power expert covers many topics, providing valuable insights along the way. Enjoy!## Setup
 
