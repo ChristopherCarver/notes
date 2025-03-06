@@ -36,7 +36,7 @@ Like any form of community involvement your mileage will vary in the tone and as
 
 Life is filled with rough and tough days. These two topics of *Auto-Backup* and *iCloud Sync* might help you prevent turning rough days into terrible days. 
 
-## Auto-Backup<u>Before you create your first note</u>, turn on auto-backup. You might be thinking, *"I'm safe, I have iCloud sync turned on."* Plain, simple, and to the point: iCloud Sync is not enough and will not protect you. Not because you cannot trust Notability or Apple, but because life happens and iCloud Sync doesn't cover all of the scenarios.**Instructions:**1. From **Library** window, go to __Settings__ (⚙️).2. Select __Auto-Backup__.3. Choose one of the cloud service providers listed in the **Select Service**. If you do not see your cloud provider, then I suggest you choose one of the ones provided. They all have free-tier options. 4. Select the **Destination** folder to store your backups into.5. Under **File Format** it is suggested, if you are in a position where you do not have a spare iPad, iPhone, or Mac, then select **PDF + Recording**; else select **Note**. **PDF + Recording** is suggested in the event your device stops working and you need access to your notes, a PDF is a universal format that most systems can open from anywhere. If you have another device that you can install Notability on, storing the backups as **Note** is preferred. You can always export **Note** to **PDF** later. 
+## Auto-Backup**Before you create your first note**, turn on auto-backup. You might be thinking, *"I'm safe, I have iCloud sync turned on."* Plain, simple, and to the point: iCloud Sync is not enough and will not protect you. Not because you cannot trust Notability or Apple, but because life happens and iCloud Sync doesn't cover all of the scenarios.**Instructions:**1. From **Library** window, go to __Settings__ (⚙️).2. Select __Auto-Backup__.3. Choose one of the cloud service providers listed in the **Select Service**. If you do not see your cloud provider, then I suggest you choose one of the ones provided. They all have free-tier options. 4. Select the **Destination** folder to store your backups into.5. Under **File Format** it is suggested, if you are in a position where you do not have a spare iPad, iPhone, or Mac, then select **PDF + Recording**; else select **Note**. **PDF + Recording** is suggested in the event your device stops working and you need access to your notes, a PDF is a universal format that most systems can open from anywhere. If you have another device that you can install Notability on, storing the backups as **Note** is preferred. You can always export **Note** to **PDF** later. 
 
 **Pros & Cons**
 
@@ -49,7 +49,7 @@ There are some unique pros and cons for both formats. Choose the right one accor
 
 Notability supports iCloud Sync to synchronize your notes across your iPhone, iPad/Pro, and Mac devices. However, carefully consider whether you truly need to use iCloud Sync.
 
-There is a <u>common misconception</u> that iCloud Sync is the same as iCloud Drive. iCloud Sync is an Apple service of iCloud Drive, however iCloud Sync does not behave like that of Box, Dropbox, Google Drive, or OneDrive. iCloud Sync, not Notability, determines where your data resides. Your data should reside on iCloud Drive regardless, but iCloud Sync determines (not Notability) if a local copy resides on your device. You will also notice, you do not have direct access to your Notability files on iCloud Drive and that's because iCloud Sync protects them within your iCloud Drive and you can only access your Notability files from Notability. All of this comes into play when addressing iCloud Sync issues.
+There is a common misconception that iCloud Sync is the same as iCloud Drive. iCloud Sync is an Apple service of iCloud Drive, however iCloud Sync does not behave like that of Box, Dropbox, Google Drive, or OneDrive. iCloud Sync, not Notability, determines where your data resides. Your data should reside on iCloud Drive regardless, but iCloud Sync determines (not Notability) if a local copy resides on your device. You will also notice, you do not have direct access to your Notability files on iCloud Drive and that's because iCloud Sync protects them within your iCloud Drive and you can only access your Notability files from Notability. All of this comes into play when addressing iCloud Sync issues.
 
 The most common issue involves missing or empty notes. This is not a Notability issue but an Apple one. Many apps that leverage iCloud Sync suffer from the same issues. Typically what happens is iCloud Sync determines to free up space on your device and then removes the local copy of those notes; even if you have 10GB of free space for a 10MB note. Normally this is not a problem until you need access to those notes in a timely fashion.
 
@@ -68,7 +68,7 @@ If you are here, you are having a rough day. Let's see if we can make it better.
 
 If you have iCloud Sync turned on and there are missing or empty notes, then follow Notability's [troubleshooting iCloud sync issues](https://support.gingerlabs.com/hc/en-us/articles/205688797-Troubleshooting-iCloud-Sync).
 
-<u>From Notability</u>
+### From Notability
 
 If you manually deleted a note (intentionally or accidentally) **within the last 30 days**, follow these steps.
 
@@ -78,7 +78,7 @@ If you manually deleted a note (intentionally or accidentally) **within the last
 3. Select **Recently Deleted**.
 4. Select the notes to recover and click **Recover Notes**.
 
-<u>Restore From Backup</u>
+### Restore From Backup
 
 In order for these instructions to work, you must have turned on and configured Auto-Backup.
 
@@ -95,158 +95,3 @@ Currently there is no bulk import of either Note or PDF files within Notability.
 3. Long-press on the **file** and select **Share**.
 4. Select **Notability**. You will be prompted where to place the PDF.
 # Note Taking 101## Flat vs Dynamic Note Taking
-## Usual suspects
-Digital note taking has been around since the first punchcard slid across the braille readers of ancient computers. 
-## Basic formatting
-Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
-
-
-
-Paragraphs must be separated by a blank line. Basic formatting of *italics* and **bold** is supported. This *can be **nested** like* so.
-
-
-
-## Lists
-
-
-
-### Ordered list
-
-
-
-1. Item 1
-
-2. A second item
-
-3. Number 3
-
-4. Ⅳ
-
-
-
-*Note: the fourth item uses the Unicode character for [Roman numeral four][2].*
-
-
-
-### Unordered list
-
-
-
-* An item
-
-* Another item
-
-* Yet another item
-
-* And there's more...
-
-
-
-## Paragraph modifiers
-
-
-
-### Code block
-
-
-
-    Code blocks are very useful for developers and other people who look at code or other things that are written in plain text. As you can see, it uses a fixed-width font.
-
-
-
-You can also make `inline code` to add code into other things.
-
-
-
-### Quote
-
-
-
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
-
-
-
-## Headings
-
-
-
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character.
-
-
-
-### Headings *can* also contain **formatting**
-
-
-
-### They can even contain `inline code`
-
-
-
-Of course, demonstrating what headings look like messes up the structure of the page.
-
-
-
-I don't recommend using more than three or four levels of headings here, because, when you're smallest heading isn't too small, and you're largest heading isn't too big, and you want each size up to look noticeably larger and more important, there there are only so many sizes that you can use.
-
-
-
-## URLs
-
-
-
-URLs can be made in a handful of ways:
-
-
-
-* A named link to [MarkItDown][3]. The easiest way to do these is to select what you want to make a link and hit `Ctrl+L`.
-
-* Another named link to [MarkItDown](https://www.markitdown.net/)
-
-* Sometimes you just want a URL like <https://www.markitdown.net/>.
-
-
-
-## Horizontal rule
-
-
-
-A horizontal rule is a line that goes across the middle of the page.
-
-
-
----
-
-
-
-It's sometimes handy for breaking things up.
-
-
-
-## Images
-
-
-
-Markdown can also contain images. I'll need to add something here sometime.
-
-
-
-## Finally
-
-
-
-There's actually a lot more to Markdown than this. See the official [introduction][4] and [syntax][5] for more information. However, be aware that this is not using the official implementation, and this might work subtly differently in some of the little things.
-
-
-
-
-
-  [1]: https://daringfireball.net/projects/markdown/
-
-  [2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
-
-  [3]: https://www.markitdown.net/
-
-  [4]: https://daringfireball.net/projects/markdown/basics
-
-  [5]: https://daringfireball.net/projects/markdown/syntax
-
