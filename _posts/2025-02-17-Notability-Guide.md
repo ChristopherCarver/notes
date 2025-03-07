@@ -6,7 +6,7 @@ categories: Notability
 tags: [guide, notetaking]
 ---
 
--=DRAFT=-
+{% include alert.html type="warning" title="DRAFT!" content="This is a draft and subject to change without notice." %}
 
 ## About
 
@@ -16,7 +16,7 @@ This Notability guide assists newcomers in creating and taking digital notes on 
 
 To start, you need either an iPad or iPad Pro with Notability installed. This is the bare minimum to begin. This guide recommends having a keyboard and a pen compatible with your iPad. While you don't need a Magic Keyboard or an Apple Pencil, owning the latter will significantly enhance your experience. Having both will greatly improve your experience.
 
-**Note:** The guide will not be covering Notability for MacOS, because the author works 100% from an iPad Pro.
+{% include alert.html type="info" title="Note!" content="The guide will not be covering Notability for MacOS, because the author only works from an iPad Pro." %}
 
 ## Start Here
 
@@ -24,16 +24,7 @@ For all things Notability and the source of truth concerning Notability, go dire
 
 This guide is a suppliment to and not a replacement for Notability's documentation. If in doubt, trust Notability's documentation and direction.
 
-> [!NOTE]
-> The [**Support**](https://support.gingerlabs.com/hc/en-us) page takes you to a URL owned by **Ginger Labs** because Ginger Labs is the parent company that creates the Notability application.
-
-{% include alert.html type="success" title="Success!" content="This is a success alert." %}
-
-{% include alert.html type="info" title="Info!" content="The [**Support**](https://support.gingerlabs.com/hc/en-us) page takes you to a URL owned by **Ginger Labs** because Ginger Labs is the parent company that creates the Notability application." %}
-
-{% include alert.html type="warning" title="Warning!" content="This is a warning alert." %}
-
-{% include alert.html type="danger" title="Danger!" content="This is a danger alert." %}
+{% include alert.html type="info" title="Info!" content="The [**Support**](https://support.gingerlabs.com/hc/en-us) page takes you to Notability's parent company **Ginger Labs**." %}
 
 ### Support
 
