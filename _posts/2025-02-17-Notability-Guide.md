@@ -24,7 +24,7 @@ To start, you will need either an iPad or iPad Pro with Notability installed. I 
 
 For all things Notability and the *source-of-truth* concerning Notability, go directly to the [**Notability's**](https://notability.com) website. There, you'll find their [**Blog**](https://blog.notability.com) offering tips and tricks, and their [**Support**](https://support.gingerlabs.com/hc/en-us) with troubleshooting resources.
 
-{% include alert.html type="info" title="Info" content="[Ginger Labs](https://rocketreach.co/ginger-labs-profile_b5b5b0cbf687bb3e) is the parent company of Notability. Ginger Labs was founded in 2008 and is based in Palo Alto, California." %}
+{% include alert.html type="info" title="Info" content="[Ginger Labs🚀](https://rocketreach.co/ginger-labs-profile_b5b5b0cbf687bb3e) is the parent company of Notability. Ginger Labs was founded in 2008 and is based in Palo Alto, California." %}
 
 ### Support
 
