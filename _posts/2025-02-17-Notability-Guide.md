@@ -27,6 +27,8 @@ This guide is a suppliment to and not a replacement for Notability's documentati
 > [!NOTE]
 > The [**Support**](https://support.gingerlabs.com/hc/en-us) page takes you to a URL owned by **Ginger Labs** because Ginger Labs is the parent company that creates the Notability application.
 
+{% include alert.html type="note" title="Warning!" content="This is a note alert." %}
+
 {% include alert.html type="info" title="Info!" content="The [**Support**](https://support.gingerlabs.com/hc/en-us) page takes you to a URL owned by **Ginger Labs** because Ginger Labs is the parent company that creates the Notability application." %}
 
 {% include alert.html type="warning" title="Warning!" content="This is a warning alert." %}
