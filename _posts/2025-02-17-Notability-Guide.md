@@ -24,7 +24,7 @@ For all things Notability and the source of truth concerning Notability, go dire
 
 This guide is a suppliment to and not a replacement for Notability's documentation. If in doubt, trust Notability's documentation and direction.
 
-> [!Note]
+> [!NOTE]
 > The [**Support**](https://support.gingerlabs.com/hc/en-us) page takes you to a URL owned by **Ginger Labs** because Ginger Labs is the parent company that creates the Notability application.
 
 ### Support
