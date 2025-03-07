@@ -1,4 +1,3 @@
 <div class="alert alert-{{ include.type }}">
-    <strong>{{ include.title }}</strong>
-    {{ include.content | markdownify }}
+    <strong>{{ include.title }}</strong>{{ include.content | markdownify }}
 </div>
