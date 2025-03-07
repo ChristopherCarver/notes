@@ -7,20 +7,29 @@ tags: [guide, notetaking]
 ---
 
 {% include alert.html type="warning" title="-=DRAFT=-" content="This is a draft and subject to change without notice." %}
+
+Why hello and welcome. I'm not sure how you got here, but I'm glad you are here. This is a simple pastime guide I'm building for the Notability community. So let's begin...
+
 ## About
 
-This Notability guide assists newcomers in creating and taking digital notes on their Apple iPad. Beginning with setup, various features and functions will be explored to get users started. The journey from a new user to a power expert covers many topics, providing valuable insights along the way. Enjoy!
+This Notability guide assists newcomers in creating and taking digital notes on their Apple iPad. Beginning with setup, we will explore the various features and functions to get you started. Enjoy!
+
 ### Setup
 
-To start, you need either an iPad or iPad Pro with Notability installed. This guide recommends having a keyboard and a pen compatible with your iPad/Pro. While you don't need a Magic Keyboard or an Apple Pencil, owning the latter will significantly enhance your experience. Having both will greatly improve your experience.
+To start, you will need either an iPad or iPad Pro with Notability installed. I recommend having a keyboard and a pen compatible with your iPad/Pro. While you don't need a Magic Keyboard or an Apple Pencil, owning the latter will significantly enhance your experience. Having both will greatly improve your experience.
 
-{% include alert.html type="note" title="Note" content="This guide will only be covering Notability for iPadOS. Though many of the topics do translate directly to iOS for iPhone and MacOS for Macs. The author of this guide has decided to pursue life only using an iPad Pro without the use of a traditional computer." %}
+{% include alert.html type="note" title="Note" content="This guide will only be covering Notability for iPadOS. Though many of the topics do translate directly to iOS for iPhone and MacOS for Macs. I decided to pursue a life of only using an iPad Pro without the use of a traditional computer. So it is hard to speak to something I, myself, cannot attest too." %}
+
 ## Start Here
-For all things Notability and the source-of-truth concerning Notability, go directly to the [**Notability's**](https://notability.com) website. There, you'll find their [**Blog**](https://blog.notability.com) offering tips and tricks, and their [**Support**](https://support.gingerlabs.com/hc/en-us) with troubleshooting resources.
 
-This guide is a suppliment to and not a replacement for Notability's documentation. If in doubt, trust Notability's documentation and direction.
+For all things Notability and the *source-of-truth* concerning Notability, go directly to the [**Notability's**](https://notability.com) website. There, you'll find their [**Blog**](https://blog.notability.com) offering tips and tricks, and their [**Support**](https://support.gingerlabs.com/hc/en-us) with troubleshooting resources.
 
-{% include alert.html type="info" title="Info" content="**Ginger Labs** is the parent company of Notability." %}
+{% include alert.html type="info" title="Info" content="**Ginger Labs** is the parent company of Notability. <br><br>Ginger Labs was founded in 2008 and is based in Palo Alto, California.<br><br>**Ginger Labs, Inc.**<br>550 N California Ave<br>Palo Alto, CA 94301<br><br> Ginger Labs executives:<br>
+- [Fred Mitchell](https://uncf.org/gallery-entry/fred-mitchell) - Founder & CEO
+- [Ruth Mohanram](https://theorg.com/org/ginger-labs/org-chart/ruth-mohanram) - Chief Financial Officer
+- [Cleary Chizmar](https://rocketreach.co/ginger-labs-management_b5b5b0cbf687bb3e) - Marketing Manager
+- [Garrett Mitchell](https://en.wikipedia.org/wiki/Cleetus_McFarland) - Chief Technology Officer
+- [Marc Provost](https://www.crunchbase.com/person/marc-provost-2) - Chief Business Officer" %}
 
 ### Support
 
