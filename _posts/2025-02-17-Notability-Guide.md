@@ -7,19 +7,15 @@ tags: [guide, notetaking]
 ---
 
 {% include alert.html type="warning" title="-=DRAFT=-" content="This is a draft and subject to change without notice." %}
-
 ## About
 
 This Notability guide assists newcomers in creating and taking digital notes on their Apple iPad. Beginning with setup, various features and functions will be explored to get users started. The journey from a new user to a power expert covers many topics, providing valuable insights along the way. Enjoy!
-
 ### Setup
 
 To start, you need either an iPad or iPad Pro with Notability installed. This guide recommends having a keyboard and a pen compatible with your iPad/Pro. While you don't need a Magic Keyboard or an Apple Pencil, owning the latter will significantly enhance your experience. Having both will greatly improve your experience.
 
 {% include alert.html type="note" title="Note" content="This guide will only be covering Notability for iPadOS. Though many of the topics do translate directly to iOS for iPhone and MacOS for Macs. The author of this guide has decided to pursue life only using an iPad Pro without the use of a traditional computer." %}
-
 ## Start Here
-
 For all things Notability and the source-of-truth concerning Notability, go directly to the [**Notability's**](https://notability.com) website. There, you'll find their [**Blog**](https://blog.notability.com) offering tips and tricks, and their [**Support**](https://support.gingerlabs.com/hc/en-us) with troubleshooting resources.
 
 This guide is a suppliment to and not a replacement for Notability's documentation. If in doubt, trust Notability's documentation and direction.
